@@ -1,4 +1,8 @@
+:root {
+ --cor-de-fundo: #EBECEE;
+}
+
 header{
-    background-color: #FFFFFF;
+    background-color: var (--cor-de-fundo);
 }
 
