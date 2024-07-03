@@ -29,3 +29,17 @@
 .container__botao:checked~.lista-menu{
     display: block;
 }
+
+.lista-menu__titulo {
+    color: var (--laranja);
+    background-color: var(--branco);
+    font-weight: 700;
+}
+
+.lista-menu__link {
+    background: var(--azul-degrade);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-transform: uppercase;
+}
