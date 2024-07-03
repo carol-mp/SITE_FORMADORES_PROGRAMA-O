@@ -23,7 +23,7 @@
 .lista-menu {
     display: none;
     position: absolute;
-    top: 50%;
+    top: 10%;
 }
 
 .container__botao:checked~.lista-menu{
