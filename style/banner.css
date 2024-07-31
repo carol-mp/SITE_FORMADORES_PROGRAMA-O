@@ -14,6 +14,7 @@
 .banner__texto {
     font-weight: 500;
     font-size: 14px;
+    padding: 1em 0;
 }
 
 .banner__pesquisa {
