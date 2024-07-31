@@ -2,12 +2,13 @@
     background: var(--azul-degrade);
     color: var(--branco);
     text-align: center;
-    padding: 2,5 em 2 em;
+    padding: 3em 2em;
 }
 
 .banner__titulo {
     font-size: 16px;
     font-weight: 700;
+    margin:1em 0;
 }
 /*1em = 16px*/
 .banner__texto {
