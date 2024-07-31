@@ -16,8 +16,14 @@
     justify-content: center;
 }
 
-.topicos__link {
+.topicos__link{
     color: var(--branco);
     background-color: var(--laranja);
-    font-size: 700;
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.topicos__itens{
+    padding: 2em 0,5em;
 }
