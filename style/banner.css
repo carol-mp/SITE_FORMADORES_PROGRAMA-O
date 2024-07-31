@@ -4,3 +4,23 @@
     text-align: center;
     padding: 2,5 em 2 em;
 }
+
+.banner__titulo {
+    font-size: 16px;
+    font-weight: 700;
+}
+/*1em = 16px*/
+.banner__texto {
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.banner__pesquisa {
+    background-color: transparent;
+    border: 1px solid var(--branco);
+    color: var (--branco);
+    border-radius: 24px;
+    padding: 1em;
+    width: 100%;
+    
+}
