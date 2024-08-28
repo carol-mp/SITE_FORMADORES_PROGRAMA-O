@@ -23,7 +23,7 @@
 .contato__email::placeholder {
     font-family: var(--fonte-principal);
     color: var(--azul);
-    background: url(../IMG/Email.svg);
+    background: url("../IMG/Email.svg");
     background-repeat: no-repeat;
     display: none;
     display: inline-block;
