@@ -35,4 +35,5 @@
     text-align: center;
     color: var(--branco);
     background: url("../IMG/Pesquisa.svg");
+    background-repeat: no-repeat;
 }
